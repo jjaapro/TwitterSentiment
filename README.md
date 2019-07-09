@@ -19,5 +19,6 @@ Search: python
 # Training Data
 Training data used is downloaded from
 http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
+
 More data for the training can be found from
 http://help.sentiment140.com/home
