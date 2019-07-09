@@ -3,6 +3,7 @@ Simple tool for the Twitter sentiment analysis.
 # Getting Started
 Create Twitter account and apply for a developer account to access Twitter API.
 Generate customer api keys, access tokens and update file `predict.py` with your keys and tokens.
+
 Install all the requirements.
 ```bash
 pip install -r requirements.txt
